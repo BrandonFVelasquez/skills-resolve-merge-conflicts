@@ -1,3 +1,6 @@
-# References
+## Random header here
+this probably conflicts
 
-* octocat 1 😈
+### Or this conflicts
+
+Something here has to commit I think.
